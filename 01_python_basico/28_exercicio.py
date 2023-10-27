@@ -37,6 +37,7 @@ aluno1 = Aluno('Leonardo', 10, 9)
 aluno1.mostraDados()
 print(aluno1.calculoMedia())
 print(aluno1.resultado())
+print()
 
 aluno2 = Aluno('João', 5, 4)
 aluno2.mostraDados()
